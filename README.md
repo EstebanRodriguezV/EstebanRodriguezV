@@ -27,7 +27,7 @@ I'm a passionate computer engineering student eager to learn and grow in the wor
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/esteban-andrés-rodríguez-vargas-807a86386)
+- [Email](mailto:earodriguezv22u@gmail.com)
 
 ---
 
