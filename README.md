@@ -17,7 +17,7 @@ I'm a passionate computer engineering student eager to learn and grow in the wor
 ## 📌 Pinned Projects
 
 
-[![Multibase Calculator]([https://github-readme-stats.vercel.app/api/pin/?username=TLShowtime&repo=Taller)](https://github.com/TLShowtime/Taller](https://github.com/EstebanRodriguezV/Multibase-Calculator-.git))
+[![Multibase Calculator](https://github.com/EstebanRodriguezV/Multibase-Calculator-.git)
 [![Treasure Grid](https://github.com/EstebanRodriguezV/Treasure-Grid.git)
 
 ---
