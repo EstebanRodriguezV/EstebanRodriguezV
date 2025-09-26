@@ -1,7 +1,7 @@
 # Hi there, I'm Esteban Rodriguez! 👋
 
 🎓 **Computer Engineering Student** at Tecnológico de Costa Rica  
-💻 **Tech Stack:** Python | SQL Server Management Studio | C++ | HTML | And more on the run
+💻 **Tech Stack:** Python | SQL Server Management Studio | C++ | HTML | CSS | Figma | JavaScript | Java | And more on the run
 
 ---
 
