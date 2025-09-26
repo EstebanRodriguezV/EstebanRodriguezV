@@ -19,6 +19,9 @@ I'm a passionate computer engineering student eager to learn and grow in the wor
 
 [![Multibase Calculator](https://github.com/EstebanRodriguezV/Multibase-Calculator-.git)
 [![Treasure Grid](https://github.com/EstebanRodriguezV/Treasure-Grid.git)
+[![Algorithm Implementation and Analysis](https://github.com/EstebanRodriguezV/Algorithm-Implementation-and-Analysis.git)
+[![Hotel Management System](https://github.com/EstebanRodriguezV/Hotel-Management-System.git)
+
 
 ---
 
