@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Esteban Rodriguez! 👋
 
-<!--
-**EstebanRodriguezV/EstebanRodriguezV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Engineering Student** at Tecnológico de Costa Rica  
+💻 **Tech Stack:** Python | SQL Server Management Studio | C++ | HTML | And more on the run
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a passionate computer engineering student eager to learn and grow in the world of technology. I enjoy solving problems, building projects, and collaborating with others. Whether it's coding, exploring new technologies, or working on exciting side projects, I'm always ready for a new challenge!
+
+- 🔥 Interested in software development, databases, web technologies, and also interested in learning about cybersecurity
+- 🎶 Music lover | 🏀 Basketball & Volleyball fan | 📖 Avid reader
+
+---
+
+## 📌 Pinned Projects
+
+
+[![Taller](https://github-readme-stats.vercel.app/api/pin/?username=TLShowtime&repo=Taller)](https://github.com/TLShowtime/Taller)
+[![Taller (Personal)](https://github-readme-stats.vercel.app/api/pin/?username=EstebanRodriguezV&repo=Taller)](https://github.com/EstebanRodriguezV/Taller
+
+---
+
+## 🌐 Connect with Me
+
+- [LinkedIn](www.linkedin.com/in/esteban-andrés-rodríguez-vargas-807a86386)
+
+---
+
+> **"All truly strong people are kind..."**
+
+---
+
+Thanks for stopping by my profile! 😊
